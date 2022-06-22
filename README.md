@@ -1,2 +1,2 @@
 # magicedenfloorwatch
-watch NFT listings and floor
+Watch NFT listings and floor on magic eden
